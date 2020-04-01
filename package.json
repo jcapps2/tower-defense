@@ -8,7 +8,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node server.js",
-    "heroku-postbuild": "webpack -p",
+    "heroku-postbuild": "webpack",
     "build": "webpack --config webpack/prod.js ",
     "dev": "webpack-dev-server --config webpack/base.js --open"
   },
