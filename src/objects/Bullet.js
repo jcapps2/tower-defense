@@ -1,4 +1,4 @@
-import 'phaser'
+import Phaser from 'phaser'
 
 export default class Bullet extends Phaser.GameObjects.Image {
     constructor(scene, x, y) {

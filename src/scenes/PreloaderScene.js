@@ -1,4 +1,4 @@
-import 'phaser'
+import Phaser from 'phaser'
 // import logoImg from '../../../assets/logo.png'
 import bullet from '../../assets/level/bulletDark2_outline.png'
 import tankRed from '../../assets/level/tank_bigRed.png'

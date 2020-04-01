@@ -1,4 +1,4 @@
-import 'phaser'
+import Phaser from 'phaser'
 import map from '../config/map'
 import Enemy from '../objects/Enemy'
 import Turret from '../objects/Turret'

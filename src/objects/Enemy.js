@@ -1,4 +1,4 @@
-import 'phaser'
+import Phaser from 'phaser'
 import levelConfig from '../config/levelConfig'
 
 export default class Enemy extends Phaser.GameObjects.Image {
